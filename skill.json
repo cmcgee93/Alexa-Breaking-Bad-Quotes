@@ -1,0 +1,65 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "ask-custom-Breaking_Bad_Quotes-default",
+          "sourceDir": "lambda\\us-east-1_ask-custom-Breaking_Bad_Quotes-default"
+        },
+        "interfaces": []
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "usesPersonalInfo": false,
+      "isChildDirected": false,
+      "isExportCompliant": true,
+      "containsAds": false
+    },
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "name": "Breaking Bad Quotes",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/405a/cedd8b10501d4a07927cea895f6cdecb/APP_ICON?versionId=AhTUeSipQD0Vw28nHZN.XOt7WfPOnp8S&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20190930T123531Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAJFEYRBGIHK2BBYKA%2F20190930%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=7845fdd8820d3b4088d63b53575be579a5592e232728e3510746b0925bceb0a9",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/1d74/dcc2167072694d4f9dec53cf5035d950/APP_ICON_LARGE?versionId=.yPnSLiMtL8.VWmuHMNpvFXyy4YgaJxa&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20190930T123531Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAJFEYRBGIHK2BBYKA%2F20190930%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=adee6b314ce4e91ae92bbc69c424f0a27e05d7c3e9f9cd79770fa8df47afd713",
+          "summary": "Serves a random quote from the TV show Breaking Bad",
+          "description": "Serves a random quote from the TV show Breaking Bad (Copyright AMC).",
+          "examplePhrases": [
+            "Alexa, ask Breaking Bad Quotes to give me a quote",
+            "Alexa, ask breaking bad quotes for a quote",
+            "Alexa, open breaking bad quotes"
+          ],
+          "keywords": [
+            "Breaking Bad",
+            "Breaking",
+            "Bad"
+          ]
+        },
+        "en-GB": {
+          "name": "Breaking Bad Quotes",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/405a/cedd8b10501d4a07927cea895f6cdecb/APP_ICON?versionId=AhTUeSipQD0Vw28nHZN.XOt7WfPOnp8S&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20190930T123531Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAJFEYRBGIHK2BBYKA%2F20190930%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=7845fdd8820d3b4088d63b53575be579a5592e232728e3510746b0925bceb0a9",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/1d74/dcc2167072694d4f9dec53cf5035d950/APP_ICON_LARGE?versionId=.yPnSLiMtL8.VWmuHMNpvFXyy4YgaJxa&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20190930T123531Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAJFEYRBGIHK2BBYKA%2F20190930%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=adee6b314ce4e91ae92bbc69c424f0a27e05d7c3e9f9cd79770fa8df47afd713",
+          "summary": "Serves a random quote from the TV show Breaking Bad",
+          "description": "Serves a random quote from the TV show Breaking Bad (Copyright AMC).",
+          "examplePhrases": [
+            "Alexa, ask Breaking Bad Quotes to give me a quote",
+            "Alexa, ask breaking bad quotes for a quote",
+            "Alexa, open breaking bad quotes"
+          ],
+          "keywords": [
+            "Breaking Bad",
+            "Breaking",
+            "Bad"
+          ]
+        }
+      },
+      "isAvailableWorldwide": false,
+      "testingInstructions": "No special instructions.",
+      "category": "EDUCATION_AND_REFERENCE",
+      "distributionCountries": [
+        "GB"
+      ]
+    }
+  }
+}

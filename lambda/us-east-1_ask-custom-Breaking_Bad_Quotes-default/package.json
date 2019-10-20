@@ -1,0 +1,15 @@
+{
+  "name": "breaking-bad-quotes",
+  "version": "1.0.1",
+  "description": "Serves a random quote from the TV show Breaking Bad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cMcGee993",
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk-core": "^2.0.0",
+    "ask-sdk-model": "^1.0.0"
+  }
+}
